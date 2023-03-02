@@ -1,4 +1,4 @@
-const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest; 6.8k (gzipped: 2.7k)
+const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest; 
 const API = 'http;//api.escuelajs.co/api/v1';
 
 function fetchData(urlApi, callback) {
