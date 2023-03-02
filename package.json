@@ -10,5 +10,8 @@
     "javascript"
   ],
   "author": "\u001b[A\u001b[Bjose armando romero orbe armamdoromeroorbe33@gmail.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
