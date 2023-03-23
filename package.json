@@ -1,5 +1,5 @@
 {
-  "name": "curso_asincronismo",
+  "name": "curso-asincronismo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,11 +7,13 @@
     "callback": "node src/callback/challenge.js"
   },
   "keywords": [
-    "javascript"
+    "javaScript"
   ],
-  "author": "\u001b[A\u001b[Bjose armando romero orbe armamdoromeroorbe33@gmail.com",
+  "author": "Alex Hernandez alex.hernandez24kb@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
